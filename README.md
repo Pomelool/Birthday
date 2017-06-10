@@ -1,6 +1,4 @@
 # Birthday Project
-
-## Developer Log
 ### First Week 6/10 - 6/17
 ####  Initial Environment:
     - Initialize Development including HelloWorld

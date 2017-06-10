@@ -5,6 +5,6 @@
     - reate/Read/Update/Delete Data with Java and SQL
     - Render basic page with Java
 ####  References:
-    > https://youtu.be/hkq6bGcwvCI?list=PLIOa6mDiSeiujBUrG4W58UenkMiOxUSqa
+    - https://spring.io/guides/gs/rest-service/#scratch
 ####  Keywords for info:
-    - How to build Restful api with Java
+    - How to build Restful api with spring

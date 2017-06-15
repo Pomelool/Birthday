@@ -7,4 +7,8 @@
 ####  References:
     - https://spring.io/guides/gs/rest-service/#scratch
 ####  Keywords for info:
-    - How to build Restful api with spring
+    - How to build Restful api with spring
+
+####  Register:
+    - Host a sql database with mySQL Workbench -> localhost:xxxx
+    - STS/Eclipse mvc + hibernate from video

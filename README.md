@@ -12,3 +12,10 @@
 ####  Register:
     - Host a sql database with mySQL Workbench -> localhost:xxxx
     - STS/Eclipse mvc + hibernate from video
+
+
+### Second Week 6/18 - 6/25
+#### Database setup
+    - sql file that sets up Database
+#### JWT token authentication
+    - wait me a second please
